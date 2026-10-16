@@ -1,0 +1,6 @@
+{
+  "name": "Playlist Scheduler",
+  "description": "Convert a YouTube playlist into a weekly Google Sheets schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
